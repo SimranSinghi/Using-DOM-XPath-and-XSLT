@@ -1,0 +1,18 @@
+XPath query 1: All articles whose one of the authors is David Maier: 
+
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+XPath query 2: All articles whose first author is David Maier:
+
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+XPath query 3: All articles whose authors include David Maier and Stanley B. Zdonik:
+
+
+XPath query 4: All articles with Volume 19 and Number 2
+
+
+XPath query 5: All titles and init/end pages of articles with Volume 19/Number 2 whose authors include Jim Gray:
+
+
+XPath query 6: All titles and init/end pages of articles with Volume 19/Number 2 whose authors include David Maier:
+
+<volume>13</volume><number>4</number>
